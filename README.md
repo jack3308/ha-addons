@@ -7,7 +7,7 @@ Repo for HA addons created by me
 
 ## Addons
 
-### [Rathole Client](https://github.com/nra4ever/ha-addons/tree/main/rathole)
+### [Rathole Client](https://github.com/jack3308/ha-addons/tree/main/rathole)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports armhf Architecture][armhf-shield]
