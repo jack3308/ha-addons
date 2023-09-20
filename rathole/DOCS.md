@@ -42,9 +42,13 @@ The SSL IP:port to forward
 
 The token (password) configured on the rathole server.
 
-### Option `trusted_root` (required)
+### Option `pub_key` (required)
 
-The certificate authority for the rathole server.
+The public key used by the noise protocol
+
+### Option `prv_key` (required)
+
+The private key used by the noise protocol
 
 ### Option `hostname` (required)
 
