@@ -24,7 +24,8 @@
     "name_http": "ha-insec",
     "local_address_http": "0.0.0.0:80",
     "token": null,
-    "trusted_root": "ca.crt",
+    "pub_key": null,
+    "prv_key": null,
     "hostname": null
   },
   "schema": {
@@ -34,7 +35,8 @@
     "name_http": "str",
     "local_address_http": "str",
     "token": "password",
-    "trusted_root": "str",
+    "pub_key": "password",
+    "prv_key": "password",
     "hostname": "str"
   }
 }
