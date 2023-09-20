@@ -1,4 +1,4 @@
-# nra4ever Home Assistant Addon Repository
+# jack3308 Home Assistant Addon Repository
 
 Repo for HA addons created by me
 <br><br>
